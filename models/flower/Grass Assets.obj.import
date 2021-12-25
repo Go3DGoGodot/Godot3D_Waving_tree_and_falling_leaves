@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Grass Assets.obj-72014656597073056a29bc37e9a26189.mesh"
+
+[deps]
+
+files=[ "res://.import/Grass Assets.obj-72014656597073056a29bc37e9a26189.mesh" ]
+
+source_file="res://models/flower/Grass Assets.obj"
+dest_files=[ "res://.import/Grass Assets.obj-72014656597073056a29bc37e9a26189.mesh", "res://.import/Grass Assets.obj-72014656597073056a29bc37e9a26189.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

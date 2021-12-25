@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/branch.obj-053f2d4175fac5a38b96a4bcb8a3d1bd.mesh"
+
+[deps]
+
+files=[ "res://.import/branch.obj-053f2d4175fac5a38b96a4bcb8a3d1bd.mesh" ]
+
+source_file="res://models/trees/x-mas_tree/branch.obj"
+dest_files=[ "res://.import/branch.obj-053f2d4175fac5a38b96a4bcb8a3d1bd.mesh", "res://.import/branch.obj-053f2d4175fac5a38b96a4bcb8a3d1bd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
